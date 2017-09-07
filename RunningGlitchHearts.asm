@@ -1,4 +1,4 @@
-#Author: KRT_, KRT_c0c4!N3, kurtunderscore, kurtnextdoor
+;Author: KRT_, KRT_c0c4!N3, kurtunderscore, kurtnextdoor
 
 [ORG 0x7c00]      
 
