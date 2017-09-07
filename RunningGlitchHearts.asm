@@ -1,6 +1,4 @@
-;Author: KRT_, KRT_c0c4!N3, kurtunderscore, kurtnextdoor
-
-[ORG 0x7c00]      
+[ORG 0x7c00]      ;Author: KRT_, KRT_c0c4!N3, kurtunderscore, kurtnextdoor
 
    xor ax, ax     
    mov ds, ax    
